@@ -1,5 +1,10 @@
-### Hi there 👋
 
-<img src="https://img.shields.io/badge/Python-컬러코드?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+### :telescope: Language
 
-<img src="https://img.shields.io/badge/Python-컬러코드?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<br>
+
+<img src="https://img.shields.io/badge/Python-3D89FD?style=flat-square&logo=Python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Javascript-FABC00?style=flat-square&logo=JavaScript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Javascript-FABC00?style=flat-square&logo=JavaScript&logoColor=white"/>
