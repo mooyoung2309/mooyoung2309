@@ -16,9 +16,6 @@ activity
 - 42 서울 Cardet 6기 : 2022.03 ~ 2022.10
 - SW 마에스트로 12기 : 2021.06 ~ 2021.12
 
-
-activity
-
 link
 - _blog_: [medium](https://medium.com/@mooyoung2309)
 - _portfolio_: [notion](https://www.notion.so/moyoung/d1ea7a8349c84e859005a3efe5d61295?pvs=4)
