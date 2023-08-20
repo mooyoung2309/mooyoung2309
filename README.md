@@ -1,27 +1,26 @@
-## 👋 안녕하세요
-- 아키텍쳐에 관심이 많은 iOS 주니어 개발자 입니다.
-- 새로운 기술을 적용하는 것에 두려움이 없습니다.
+## 송영모
+포기한 사람은 자신이 얼마나 성공에 가까이 있었는지 모른다.
 
-now
-- 세종대학교 소프트웨어학과 3학년 1학기 재학 중
+<br>
 
-work
-- 플레이키보드 iOS 인턴: 2023.01 ~ 2023.03
-
-activity
-- 디프만 13기 iOS : 2023.04 ~
-- SW 마에스트로 Expert 2기 : 2023.04 ~
-- 세종대학교 앱 동아리 아롬 iOS 파트장: 2023.03 ~
-- NEXTERS 21기 iOS 수료 : 2022.07 ~ 2022.08
-- SW 마에스트로 Expert 1기: 2022.06 ~ 2022.12
-- 스마일 게이트 AI 멤버십 2기 iOS 담당 : 2022.06 ~ 2022.11
-- CMC 11기 iOS 수료 : 2022.05 ~ 2022.07
-- 42 서울 Cardet 6기 : 2022.03 ~ 2022.10
-- SW 마에스트로 12기 : 2021.06 ~ 2021.12
-
-link
-- _blog_: [medium](https://medium.com/@mooyoung2309)
-- _portfolio_: [notion](https://www.notion.so/moyoung/d1ea7a8349c84e859005a3efe5d61295?pvs=4)
+<li><b><a href="https://plkey.app">플레이키보드</a> • iOS Intern <sub>(2023.01 ~ 2023.03)</sub></b></li>
+<br>
+<li><a href="https://github.com/Nexters">NEXTERS</a> • 21기, 23기 iOS <sub>(2022.07 ~ 2023.08, 2023.07 ~ 2023.08)</sub></li>
+<li><a href="https://www.depromeet.com/">Depromeet</a> • 13기 iOS <sub>(2022.04 ~ 2023.07)</sub></li>
+<li><a href="https://github.com/TEAM-ALOM">아롬</a> • iOS 파트장 <sub>(2023.03 ~ 2023.06)</sub></li>
+<li><a href="https://www.smilegate.com/ko/">스마일게이트</a> • AI 멤버십 2기 <sub>(2022.06 ~ 2022.11)</sub></li>
+<li><a href="https://www.makeus.in/">CMC</a> • 11기 iOS <sub>(2022.05 ~ 2022.07)</sub></li>
+<li><a href="https://42seoul.kr/seoul42/main/view">42 Seoul</a> • 6기 Cardet <sub>(2022.03 ~ 2022.10)</sub></li>
+<li><a href="https://www.swmaestro.org/sw/main/main.do">SW Maestro</a> • 1기, 2기 Expert <sub>(2022.06 ~ 2022.12, 2023.04 ~ 2023.08)</sub></li>
+<li><a href="https://www.swmaestro.org/sw/main/main.do">SW Maestro</a> • 12기 연수생 <sub>(2021.06 ~ 2021.12)</sub></li>
+<li> 세종대학교 소프트웨어학과 <sub>(2018.03 ~ )</sub></li>
+<br>
+<li><a href="https://github.com/folio-world">[folio-world - iOS 모노레포 구축 오가니제이션]</a> • iOS <sub>(2023.08 ~ )</sub></li>
+<li><a href="https://github.com/Nexters/draw-mobile">[Draw - 숏폼 익명 고민상담 서비스]</a> • PM, iOS <sub>(2023.07 ~ 2023.08)</sub></li>
+<li><a href="https://github.com/depromeet/Pumping-iOS">[펌핑 - 운동 겨루기]</a> • iOS <sub>(2023.04 ~ 2023.07)</sub></li>
+<li><a href="https://github.com/Nexters/JYP-iOS">[저니피키 - 여행 공유 플래너]</a> • iOS <sub>(2022.07 ~ 2022.08)</sub></li>
+<li><a href="https://github.com/mooyoung2309/atracker-iOS">[어트래커 - 취업 준비 과정 기록]</a> • iOS <sub>(2022.05 ~ 2022.07)</sub></li>
+<li><a href="https://github.com/TAMSADAN/coryn-mobile">[코린 - 코인 호재 및 일정]</a> • PM, Flutter, Design <sub>(2022.01 ~ 2022.02)</sub></li>
 
 <br>
 
