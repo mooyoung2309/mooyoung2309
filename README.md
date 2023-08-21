@@ -7,16 +7,16 @@
 <br>
 <li><a href="https://github.com/Nexters">NEXTERS</a> • 21기, 23기 iOS <sub>(2022.07 ~ 2023.08, 2023.07 ~ 2023.08)</sub></li>
 <li><a href="https://www.depromeet.com/">Depromeet</a> • 13기 iOS <sub>(2022.04 ~ 2023.07)</sub></li>
+<li><a href="https://www.makeus.in/">CMC</a> • 11기 iOS <sub>(2022.05 ~ 2022.07)</sub></li>
 <li><a href="https://github.com/TEAM-ALOM">아롬</a> • iOS 파트장 <sub>(2023.03 ~ 2023.06)</sub></li>
 <li><a href="https://www.smilegate.com/ko/">스마일게이트</a> • AI 멤버십 2기 <sub>(2022.06 ~ 2022.11)</sub></li>
-<li><a href="https://www.makeus.in/">CMC</a> • 11기 iOS <sub>(2022.05 ~ 2022.07)</sub></li>
 <li><a href="https://42seoul.kr/seoul42/main/view">42 Seoul</a> • 6기 Cardet <sub>(2022.03 ~ 2022.10)</sub></li>
 <li><a href="https://www.swmaestro.org/sw/main/main.do">SW Maestro</a> • 1기, 2기 Expert <sub>(2022.06 ~ 2022.12, 2023.04 ~ 2023.08)</sub></li>
 <li><a href="https://www.swmaestro.org/sw/main/main.do">SW Maestro</a> • 12기 연수생 <sub>(2021.06 ~ 2021.12)</sub></li>
 <li> 세종대학교 소프트웨어학과 <sub>(2018.03 ~ )</sub></li>
 <br>
 <li><a href="https://github.com/folio-world">[folio-world - iOS 모노레포 구축 오가니제이션]</a> • iOS <sub>(2023.08 ~ )</sub></li>
-<li><a href="https://github.com/Nexters/draw-mobile">[Draw - 숏폼 익명 고민상담 서비스]</a> • PM, iOS <sub>(2023.07 ~ 2023.08)</sub></li>
+<li><a href="https://github.com/Nexters/draw-mobile">[드로우 - 숏폼 익명 고민상담 서비스]</a> • PM, iOS <sub>(2023.07 ~ 2023.08)</sub></li>
 <li><a href="https://github.com/depromeet/Pumping-iOS">[펌핑 - 운동 겨루기]</a> • iOS <sub>(2023.04 ~ 2023.07)</sub></li>
 <li><a href="https://github.com/Nexters/JYP-iOS">[저니피키 - 여행 공유 플래너]</a> • iOS <sub>(2022.07 ~ 2022.08)</sub></li>
 <li><a href="https://github.com/mooyoung2309/atracker-iOS">[어트래커 - 취업 준비 과정 기록]</a> • iOS <sub>(2022.05 ~ 2022.07)</sub></li>
