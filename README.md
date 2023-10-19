@@ -8,7 +8,7 @@
 <li><a href="https://github.com/Nexters">NEXTERS</a> • 21기, 23기 iOS <sub>(2022.07 ~ 2023.08, 2023.07 ~ 2023.08)</sub></li>
 <li><a href="https://www.depromeet.com/">Depromeet</a> • 13기 iOS <sub>(2022.04 ~ 2023.07)</sub></li>
 <li><a href="https://www.makeus.in/">CMC</a> • 11기 iOS <sub>(2022.05 ~ 2022.07)</sub></li>
-<li><a href="https://github.com/TEAM-ALOM">아롬</a> • iOS 파트장 <sub>(2023.03 ~ 2023.06)</sub></li>
+<li><a href="https://github.com/TEAM-ALOM">아롬</a> • iOS 파트장 <sub>(2023.03 ~ 2023.06, 2023.09 ~ 2023.12)</sub></li>
 <li><a href="https://www.smilegate.com/ko/">스마일게이트</a> • AI 멤버십 2기 <sub>(2022.06 ~ 2022.11)</sub></li>
 <li><a href="https://42seoul.kr/seoul42/main/view">42 Seoul</a> • 6기 Cardet <sub>(2022.03 ~ 2022.10)</sub></li>
 <li><a href="https://www.swmaestro.org/sw/main/main.do">SW Maestro</a> • 1기, 2기 Expert <sub>(2022.06 ~ 2022.12, 2023.04 ~ 2023.08)</sub></li>
