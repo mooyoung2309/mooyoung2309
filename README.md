@@ -4,6 +4,7 @@
 <br>
 
 <li><b><a href="https://plkey.app">플레이키보드</a> • iOS Intern <sub>(2023.01 ~ 2023.03)</sub></b></li>
+<li><b><a href="https://www.orzo.kr/">슬링</a> • iOS 개발자 (정규직) <sub>(2024.01 ~ )</sub></b></li>
 <br>
 <li><a href="https://github.com/Nexters">NEXTERS</a> • 21기, 23기 iOS <sub>(2022.07 ~ 2023.08, 2023.07 ~ 2023.08)</sub></li>
 <li><a href="https://www.depromeet.com/">Depromeet</a> • 13기 iOS <sub>(2022.04 ~ 2023.07)</sub></li>
