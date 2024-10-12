@@ -7,8 +7,8 @@
 <li><b><a href="https://plkey.app">플레이키보드</a> • iOS 개발자 (인턴) <sub>(2023.01 ~ 2023.03)</sub></b></li>
 
 <br>
-<li><a href="https://www.yapp.co.kr/">YAPP</a> • 24기 <sub>(24.05 ~ )</sub></li>
-<li><a href="https://github.com/Nexters">NEXTERS</a> • 21기, 23기 iOS <sub>(22.07 ~ 23.08, 23.07 ~ 23.08)</sub></li>
+<li><a href="https://www.yapp.co.kr/">YAPP</a> • 24기 PM <sub>(24.05 ~ )</sub></li>
+<li><a href="https://github.com/Nexters">NEXTERS</a> • 21기, 23기 iOS, PM <sub>(22.07 ~ 23.08, 23.07 ~ 23.08)</sub></li>
 <li><a href="https://www.depromeet.com/">Depromeet</a> • 13기 iOS <sub>(22.04 ~ 23.07)</sub></li>
 <li><a href="https://www.makeus.in/">CMC</a> • 11기 iOS <sub>(22.05 ~ 22.07)</sub></li>
 <li><a href="https://github.com/TEAM-ALOM">아롬</a> • iOS 파트장 <sub>(23.03 ~ 23.06, 23.09 ~ 23.12)</sub></li>
@@ -16,7 +16,7 @@
 <li><a href="https://42seoul.kr/seoul42/main/view">42 Seoul</a> • 6기 Cardet <sub>(22.03 ~ 22.10)</sub></li>
 <li><a href="https://www.swmaestro.org/sw/main/main.do">SW Maestro</a> • 1기, 2기, 3기 Expert <sub>(22.06 ~ 22.12, 23.04 ~ 23.08, 24.04 ~ )</sub></li>
 <li><a href="https://www.swmaestro.org/sw/main/main.do">SW Maestro</a> • 12기 연수생 <sub>(21.06 ~ 21.12)</sub></li>
-<li> 세종대학교 소프트웨어학과 <sub>(18.03 ~ )</sub></li>
+<li> 세종대학교 소프트웨어학과 <sub>(18.03 ~ 25.02)</sub></li>
 <br>
 <li><a href="https://github.com/folio-world">[folio-world - iOS 모노레포 구축 오가니제이션]</a> • iOS <sub>(23.08 ~ )</sub></li>
 <li><a href="https://github.com/Nexters/draw-mobile">[드로우 - 숏폼 익명 고민상담 서비스]</a> • PM, iOS <sub>(23.07 ~ 23.08)</sub></li>
